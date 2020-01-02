@@ -2,6 +2,5 @@ Agent Registration
 AgentDaemon
 Testtt
 Test final
-helloi
-helloi
 Testttttttttt Agent
+Agent Test
