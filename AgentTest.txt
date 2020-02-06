@@ -9,3 +9,4 @@ Agent
 Release testing
 testCases
 Testing 6.4
+ReleaseTesting
